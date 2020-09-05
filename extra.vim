@@ -8,6 +8,7 @@ source ~/.intellimacs/extra/settings.vim
 source ~/.intellimacs/extra/applications.vim
 source ~/.intellimacs/extra/bookmarks.vim
 source ~/.intellimacs/extra/buffers.vim
+source ~/.intellimacs/extra/clojure.vim
 source ~/.intellimacs/extra/compile-comments.vim
 source ~/.intellimacs/extra/errors.vim
 source ~/.intellimacs/extra/files.vim
